@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/AdityaSusawat/ltidemo/_apis/build/status/AdityaSusawat-lti.python-sample-vscode-flask-tutorial%20(1)?branchName=master)](https://dev.azure.com/AdityaSusawat/ltidemo/_build/latest?definitionId=3&branchName=master)
+
 # Python/Flask Tutorial for Visual Studio Code
 
 Testing
